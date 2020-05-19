@@ -1,5 +1,5 @@
 # Lebenslauf  
-![Bild 1](~\Bild1.jpg)
+![Bild 1](./Bild1.jpg)
 
 **Name**: Dietz  
 **Vorname**: Nico  
